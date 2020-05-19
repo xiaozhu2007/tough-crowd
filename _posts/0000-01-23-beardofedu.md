@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to beardofedu's slide deck!"
 ---
 
 Mixing up the perfect commit.
 
-![labtocat](https://octodex.github.com/images/labtocat.png)
+![daftpunktocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 {: .center}
